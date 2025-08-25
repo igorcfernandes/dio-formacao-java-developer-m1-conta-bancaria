@@ -6,7 +6,7 @@ O objetivo é treinar a utilização da linguagem para criar uma aplicação sim
 
 ### Enunciado do exercício
 
-Implemente uma classe `ContaTerminal` capaz de:
+Implemente uma classe `ContaBancaria` capaz de:
 
 1. Solicitar ao usuário as seguintes informações:
     - Número da **agência**
